@@ -4,7 +4,8 @@ body{
 }
 .first-div{
     background-color: #002564;
-    color: #fff;
+    margin-left: 50px;
+    color: #fff125;
     font-size: 1.4rem;
     width: 300px;
     border-radius: 10px;
@@ -32,5 +33,3 @@ body{
 .one{
     color: #963985;
 }
-.wrapper{
-    display: flex;
