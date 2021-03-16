@@ -19,7 +19,7 @@ body{
 }
 
 .head{
-    margin-left: 500px;
+    margin-left: 800px;
     color: #fff;
     font-size: 1.4rem;
     text-align: center;
@@ -34,5 +34,5 @@ body{
 }
 .wrapper{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
