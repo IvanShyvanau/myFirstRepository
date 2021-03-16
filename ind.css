@@ -15,7 +15,6 @@ body{
 .first-div:hover{
     background-color: #126598;
     font-size: 1.6rem;
-    text-decoration: un;
 
 }
 
@@ -32,4 +31,8 @@ body{
 }
 .one{
     color: #963985;
+}
+.wrapper{
+    display: flex;
+    justify-content: space-between;
 }
