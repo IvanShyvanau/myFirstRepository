@@ -1,0 +1,36 @@
+body{
+    background-color: #000;
+    
+}
+.first-div{
+    background-color: #002564;
+    color: #fff;
+    font-size: 1.4rem;
+    width: 300px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.first-div:hover{
+    background-color: #126598;
+    font-size: 1.6rem;
+    text-decoration: un;
+
+}
+
+.head{
+    margin-left: 500px;
+    color: #fff;
+    font-size: 1.4rem;
+    text-align: center;
+    background-color: #456325;
+    width: 300px;
+    border-radius: 10px;
+
+    
+}
+.one{
+    color: #963985;
+}
+.wrapper{
+    display: flex;
